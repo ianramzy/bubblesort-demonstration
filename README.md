@@ -1,4 +1,4 @@
-# BubblesortDemonstration
+# Bubblesort Demonstration
 [![Author](https://img.shields.io/badge/Author-ianramzy-brightgreen.svg)](https://ianramzy.com)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg)](https://paypal.me/ianramzy)
@@ -7,5 +7,5 @@
 
 BlueJ applet that visualizes the bubble sort algorithim
 For more information, installation instructions, and screenshots see:
-# https://ianramzy.com/project/RecursiveTrees.html
+# https://ianramzy.com/project/bubblesort-demonstration.html
 
